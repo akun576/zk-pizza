@@ -1,0 +1,26 @@
+*{
+  padding:0;
+  margin:0;
+  list-style:none;
+}
+#swiper2 .swiper-pagination-bullet-active{
+    background:#6f42c1!important;
+}
+.history{
+    display:flex;
+  }
+.history .history-home{
+    flex:1;
+  }
+.delivery{
+    display:flex;
+  }
+.delivery .delivery-home{
+    flex:1;
+  }
+
+  .current-city .city-selector{
+    display:inline-block;
+    border-width:0px;
+    border:0 solid #000;
+  }
